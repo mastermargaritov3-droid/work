@@ -1,3 +1,7 @@
+#profile-title: White List Reserve
+#profile-update-interval: 1
+#announce: Резерная подписка
+##################################################
 vless://6aa29ed2-5cf3-48e0-89ea-9a0588258778@176.124.211.23:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=cdn-vx.barclais.co.uk&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23351
 vless://968dc935-0afd-4436-a8d5-5eee55c67770@87.228.101.196:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%23326
 vless://6aa29ed2-5cf3-48e0-89ea-9a0588258778@176.124.211.23:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23350
