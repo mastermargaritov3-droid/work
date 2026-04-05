@@ -1,6 +1,6 @@
 #profile-title: 🔥 Свободу Попугаям!
 #profile-update-interval: 1
-#announce: 🇷🇺 СВОБОДНАЯ ПОДПИСКА 05.04.2026
+#announce: 🇷🇺 Супер быстрые сервера. Youtube, Instagram
 ##################################################
 vless://686e165b-31f4-455b-81d6-b299aba44f13@103.88.243.165:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=TGCn_54sGMSXxlj9IpG8NCcxUlqBrUDzt-5vNwYNXhU&sid=b2a6e3d42f05c3d1&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Timeweb%20%E2%80%94%20%23306
 vless://f1881fb7-3d7c-42d4-ab52-1a9eebf6fb71@194.55.244.169:443?type=raw&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bqoZnQgCG5B4vLKc-mgL-CHRI06Q0H1bv9zBcpo9zjE&sid=96962fed&sni=ru-02.maxonelove.com#0759 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
