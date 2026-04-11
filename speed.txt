@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://beacc301-0325-4e97-938f-72160f2643c7@lte.krevetkavpn6666.ru:443?type=tcp&encryption=none&security=reality&pbk=XU5l8xkBsyizFzVIFqIE9pDIj2P8_u6mxqQGbidacQk&fp=chrome&sni=www.tesla.com&spx=%2F&flow=xtls-rprx-vision&sid=fc8470#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
 vless://5844340d-634b-4fef-8524-db3ba38112f0@141.98.191.239:7443?encryption=none&fp=firefox&mode=gun&pbk=yP0gYZ4Pc4IehdZwqfYJN2WGR14LVQBReK8A4fMW128&security=reality&serviceName=grpc&sid=2a9a96e9&sni=ru186.tcpnet.fun&type=grpc#🇷🇺 Russia | PQ-HOSTING 1
 vless://5844340d-634b-4fef-8524-db3ba38112f0@ru186.tcpnet.fun:7443?encryption=none&fp=firefox&mode=gun&pbk=yP0gYZ4Pc4IehdZwqfYJN2WGR14LVQBReK8A4fMW128&security=reality&serviceName=grpc&sid=2a9a96e9&sni=ru186.tcpnet.fun&type=grpc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.252.101.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http%2F1.1#🇷🇺 Russia | Delta 7
@@ -16,4 +17,3 @@ vless://070c41f2-0e92-4741-8962-cde51a48f992@158.160.225.61:443?flow=xtls-rprx-v
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@yt-noads.sbrf-cdn342.ru:443?alpn=http/1.1&encryption=none&flow=xtls-rprx-vision&fp=qq&packetEncoding=xudp&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://5039ac6a-2575-4b7f-b812-212c10501037@51.250.126.221:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Ea-rod_ya4aiuRbjC4qwzjZmXdjnjW9n_5Z4DI6M0k&sid=8f64bb95&sni=tunnel.vk-apps.com#1165 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://ed032d78-d704-43c0-b564-ef17bb748553@51.250.126.221:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2Ea-rod_ya4aiuRbjC4qwzjZmXdjnjW9n_5Z4DI6M0k&sid=8f64bb95&sni=tunnel.vk-apps.com#1129 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
-vless://5039ac6a-2575-4b7f-b812-212c10501037@51.250.126.221:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=2Ea-rod_ya4aiuRbjC4qwzjZmXdjnjW9n_5Z4DI6M0k&sid=8f64bb95&sni=tunnel.vk-apps.com#1614 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
