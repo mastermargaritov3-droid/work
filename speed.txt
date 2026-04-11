@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://1c26ed16-45a1-4872-87ec-66225ec915cc@5.188.114.99:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&sid=3f8ad1&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%7C%20Selectel%20%7C%20%23133
 vless://ac6acbba-3153-49fe-b018-995a2b66301b@lte2.krevetkavpn6666.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=z9dOqH2pEKYk8V7opl4npiUUSXzj6yRHDYj9Xl95znY&security=reality&sid=b99e82f6d99f6e&sni=www.apple.com&spx=/&type=tcp#🇷🇺 Russia | Yandex.Cloud 17
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@84.252.101.90:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=qq&sni=sub.sbrf-cdn342.ru&alpn=http%2F1.1#🇷🇺 Russia | Delta 18
 vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@150.241.75.226:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=jkJjVvjbZmS5Nq-5Oz7GTRSZ_qXfChO7b5Ee8yYglzw&sid=23c0b9cc8395ab36#🇷🇺 Россия | White List | Fast | EaveVPN | #0129%20t.me%2Frjsxrd
@@ -16,4 +17,3 @@ vless://4873e97a-ac16-4eed-8f1c-63456d53d474@161.104.105.101:8443?flow=xtls-rprx
 vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@193.148.58.79:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=jkJjVvjbZmS5Nq-5Oz7GTRSZ_qXfChO7b5Ee8yYglzw&sid=23c0b9cc8395ab36#🇷🇺 Россия | White List | Fast | EaveVPN | #0169%20t.me%2Frjsxrd
 vless://65a36931-0d5c-4f0a-a03b-042a971ab0c4@161.104.105.101:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🇷🇺 Россия | White List | Fast | EaveVPN | #0149%20t.me%2Frjsxrd
 vless://6a83dc5f-6ac1-48cf-b2f1-abea8eb8f179@188.225.39.93:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=gkXWyBWBgObexMJGfDoDLbX2xKJbQwLLEEkzt-4j3ik&spx=%2F#[480ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
-vless://91041338-9b7e-4071-83b6-e176fa807cd8@161.104.105.101:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&sid=2cfb5a0ae8ab0cb0#🇷🇺 Россия | White List | Fast | EaveVPN | #0153%20t.me%2Frjsxrd
