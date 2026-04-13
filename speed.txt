@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://3bd79042-4b4e-48b9-b298-087198978c39@176.124.216.182:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://fb73913c-9315-4595-8f92-488a2ceaf9a4@212.192.14.163:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=randomized&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&sni=goodcardboard.shop&spx=/#1992 | 🇷🇺 Russia | 🏳️ CIDR-NGENIX | VLESS | TG: @YoutubeUnBlockRu
 vless://24d48d4a-f98c-42f2-af09-e35d2392cdb5@94.228.125.209:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&sni=goodcardboard.shop#0725 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
 vless://476add89-e75b-4768-93f9-a34a6dcca3ca@85.193.88.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://9f29b413-b5f0-4dbe-8403-f8bab27850aa@94.228.125.209:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
@@ -15,5 +17,3 @@ vless://f66c2096-2c1c-4e25-96a7-0cd89aa6c080@158.160.252.155:443?type=tcp&securi
 vless://9920bea4-e559-4ad1-ae53-fa3376642ee8@158.160.232.29:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&sni=5post-gate.x5.ru#0188 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu
 vless://b61064d8-ef90-4e79-8088-e3e49c59e1dd@89.223.68.181:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | JSC "TIMEWEB" 11
 vless://f40f1bcb-83b6-41fc-a315-d2502ca08792@212.192.14.160:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&sid=&sni=goodcardboard.shop#1368 | 🇷🇺 Russia | 🏳️ CIDR-NGENIX | VLESS | TG: @YoutubeUnBlockRu
-vless://476add89-e75b-4768-93f9-a34a6dcca3ca@85.193.88.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | JSC "TIMEWEB" 109
-vless://49825d40-3272-4e9d-97c2-6e97cdb3a2cc@85.193.88.82:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#🇷🇺 Russia | JSC "TIMEWEB" 17
