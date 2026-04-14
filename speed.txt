@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://b3f6e0c6-8f85-4a9d-90ec-70406efc8268@95.163.208.231:7443?security=reality&sni=eh.vk.com&fp=chrome&pbk=bolMb-yrl2OaNaPPEclcPipNvvHeIhJvNbzCKd9rUhI&sid=f7cb8e88a25caa02&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://7ffdbbbb-d29e-4851-a7f0-3928d638d657@94.139.246.35:443?security=reality&sni=eh.vk.com&fp=qq&pbk=s-mvFrdGd7s-KKPArQnPjuHUnpc4MdE1ttmMBUkaSjw&sid=e2b711ad5c2646b2&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
+vless://54da745a-402c-4e62-b3d0-273d007b60d5@84.201.150.199:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2355
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@188.225.33.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.vk.ru&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&sid=8ac77e6b777376c8#🇷🇺 Russia | JSC "TIMEWEB" 27
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@176.53.160.219:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=_96LOMBxXa644t-cEUNASqEGNrgbwpwP8EKNo688lGo&sid=654745868796&sni=bespoked.ru#🇷🇺 Russia | JSC "TIMEWEB" 32
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@188.225.33.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=m.vk.ru&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&sid=8ac77e6b777376c8#🇷🇺 Russia | JSC "TIMEWEB" 69
@@ -14,6 +17,3 @@ vless://09258981-6737-4e6f-959c-467c549de3b3@51.250.44.22:443?type=tcp&security=
 vless://a3297bcd-e041-4750-a4fb-dea234cae387@51.250.44.22:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&sni=5post-gate.x5.ru#🇷🇺 Russia | Oyster Telecom 1
 vless://c5956326-c033-4a63-8aac-da84bbb94130@51.250.44.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 16
 vless://24fcafef-c497-4428-a90d-93c3a8b5a9b7@51.250.44.22:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&sni=5post-gate.x5.ru#🇷🇺 Russia | JSC Selectel 14
-vless://76da7d46-b939-4a20-ab45-80942f3b075b@51.250.44.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-vless://09258981-6737-4e6f-959c-467c549de3b3@51.250.44.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 22
-vless://09258981-6737-4e6f-959c-467c549de3b3@51.250.44.22:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | Selectel 3
