@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?alpn=http%25252F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%2525252525252525252525252525252525252525252525252525252525252525252F1.1&allowInsecure=1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&alpn=http%252525252525252525252525252525252525252525252525252525252525252F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://75807638-6f19-07d0-ae08-38492ee85c88@russ-13.anti-vpn.ru:52006?alpn=http%25252525252525252525252525252F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=&path=&host=&alpn=http%25252525252525252525252F1.1#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://05234eb5-8200-4afb-bd2a-41f14e9fed1b@g5mt7kgg7q.country-26.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com&spx=/#🇷🇺 Russia | JSC "TIMEWEB" 121
 vless://05234eb5-8200-4afb-bd2a-41f14e9fed1b@g5mt7kgg7q.country-26.de-nfast.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&sni=tradingview.com&spx=/#🇷🇺 Russia | JSC "TIMEWEB" 112
 vless://e376a546-aba4-4375-b85c-edc2311881b0@84.201.170.9:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | Oyster Telecom 2
@@ -12,8 +17,3 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?securit
 vless://75807638-6f19-07d0-ae08-38492ee85c88@russ-13.anti-vpn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&alpn=http%2525252525252525252525252525252525252525252525252F1.1#🇷🇺 Russia | JSC Selectel 126
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=&fp=chrome&alpn=http%2525252F1.1&allowInsecure=1#🇷🇺 Russia | JSC Selectel 172
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=&path=&host=&alpn=http%25252525252525252525252525252525252F1.1#🇷🇺 Russia | JSC Selectel 161
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&alpn=http%252525252525252525252525252525252525252525252525252F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 29
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&alpn=http%25252525252F1.1#🇷🇺 Russia | JSC Selectel 125
-vless://5376a525-a950-480f-b7c7-809c8ca8733c@84.201.170.9:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 122
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster11.anti-vpn.ru:52006?security=tls&alpn=http%252525252525252525252525252525252F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 95
-vless://75807638-6f19-07d0-ae08-38492ee85c88@russ-13.anti-vpn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&alpn=http%252F1.1#🇷🇺 Russia | JSC Selectel 182
