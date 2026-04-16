@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://554a813d-5ec3-4cad-8880-7a10af8adf54@81.200.149.180:8443?encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=CK9FUoPvZS0AyXyu1sOK_gHUdQUQl9TeFM6IFzpTFV0&sid=1d9dc56f0b4fbb28&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 33
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2344
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 31
@@ -16,4 +17,3 @@ vless://e07db34e-b446-42d7-9109-9e00c9c92177@89.208.231.212:443?type=tcp&securit
 vless://c09b4aa0-0c15-5b97-9b12-3fba93c24112@45.151.62.14:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=VGVy373Kbp6TGvJxvOFJt3UjxMZZ7oX7ZuqqFjipbEA&sid=8a06900d&sni=ads.x5.ru#🇷🇺 Russia | JSC "TIMEWEB" 30
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.125:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=cdnv-img.perekrestok.ru&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc#🇷🇺 Russia | VK 28
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.125:443?type=tcp&security=reality&sni=cdnv-img.perekrestok.ru&fp=chrome&flow=xtls-rprx-vision&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc#🇷🇺 Russia | VK 36
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.125:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&sni=cdnv-img.perekrestok.ru#🇷🇺 Russia | VK 38
