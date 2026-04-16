@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.218.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2311
+vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.254.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2310
 vless://0b5d4737-0665-4b36-a941-0299f5362491@85.239.55.26:4509?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
 vless://6b594bb0-50ec-44a4-a020-02b042a7be38@ru3.fluxorvpn.net:443?security=reality&sni=ozone.ru&fp=qq&pbk=pQYGdr-ee0TotzdikPWnqJgKbX8OYcPNkJpH9scxjB0&sid=3decb73e&type=grpc&serviceName=grpc&packetEncoding=xudp&encryption=none#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC "TIMEWEB" 37
 vless://0b5d4737-0665-4b36-a941-0299f5362491@72.56.250.216:4293?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#1504 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
@@ -15,5 +17,3 @@ vless://0434cd35-7507-40c9-a800-6192448a4c2d@144.31.50.84:499?type=tcp&security=
 vless://75807638-6f19-2710-ae08-38492ee85c88@178.72.145.56:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=germ-dop.anti-vpn.ru#[392ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://75807638-6f19-2710-ae08-38492ee85c88@212.92.101.190:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&sni=germ-dop.anti-vpn.ru#[401ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&host=026.electrocellco-cf-026.workers.dev&type=ws&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
-vless://75807638-6f19-2710-ae08-38492ee85c88@95.213.143.248:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=tls&fp=chrome&sni=germ-dop.anti-vpn.ru#[348ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
-vless://ec9e7b71-72b6-0021-8549-2efb1b21a502@us.musicperec.ru:443?flow=xtls-rprx-vision&fp=chrome&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=6e3f0a5b&sni=ads.x5.ru&type=tcp#🇷🇺 Россия | White List | Fast | EaveVPN | #0026%20t.me%2Frjsxrd
