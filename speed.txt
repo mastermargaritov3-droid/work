@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?encryption=none&packetEncoding=xudp&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://49b11e9e-c0ab-4d25-a975-ec603c0692ef@5.188.115.98:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=CF49-iS9dsHBwvqYFoDs_T3Me8TT0FpNW2kibGBkVXY#%F0%9F%87%B7%F0%9F%87%BA%20LTE%20%7C%20Selectel%20%7C%20%2329
 vless://6bcd0f85-d197-42b3-b4a7-86010e59b0d8@95.163.182.11:8443?security=reality&sni=yuy10.live-stream-24.ru&fp=qq&pbk=t192lvTN6ZtCch9LSAkLOKnKuyYdLLaTJx8tn3VRHz0&sid=dfdee30a27b11f0f&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D%20VK
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2329
 vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@wl-ru-vk-02.ray-balance.space:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnv-img.perekrestok.ru&fp=safari&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&packetEncoding=xudp#🇷🇺 Russia | VK 56
@@ -14,6 +17,3 @@ vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.218.153:443?flow=xtls-rprx-
 vless://18e4af72-d06b-4049-aeab-3ba93813491d@51.250.84.29:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ew5a5rNW0ZLY9s4xnI3iZHbNLw2I21bp_kwa5poLcDU&sid=b2a6e3d42f05c3d1&spx=%2F#🇷🇺 Russia | Yandex.Cloud 3
 vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.254.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 4
 vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.254.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | Oyster Telecom 1
-vless://c80ca406-d9af-4807-b01a-b21dfb60f2ba@158.160.218.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 3
-vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.218.153:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 7
-vless://797bde01-870b-453c-a873-3ab6cd75a626@158.160.254.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 6
