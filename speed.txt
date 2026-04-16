@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://2fdd6b51-4fe2-4e2f-803a-3eb284bf038e@72.56.249.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&sid=&sni=www.google.com#0100 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2343
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://04fefcca-ef81-4644-91de-5e4667a93fc7@176.98.176.75:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=GBq78LaVzdcarcTEGJV0sOIa32JlYQoCdsStkQfVmwo&sid=abcdef1234567890&sni=rbc.ru#1233 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?type=ws&security=none&host=2.utube.mambo-jambo.ru&path=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
+vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.125:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&sni=cdnv-img.perekrestok.ru#1769 | 🇷🇺 Russia | 🏳️ SNI-OK | VLESS | TG: @YoutubeUnBlockRu
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.90:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 12
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 2
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 4
@@ -10,10 +17,3 @@ vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.90:58169?encryption=none
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 1
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2336
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 6
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 8
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.139:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 5
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.139:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2329
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?encryption=none&packetEncoding=xudp&security=none&type=ws#🇷🇺 Russia | JSC Selectel 7
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?encryption=none&packetEncoding=xudp&security=none&type=ws#🇷🇺 Russia | JSC Selectel 34
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 36
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2341
