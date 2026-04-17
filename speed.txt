@@ -2,6 +2,12 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://7a8f51a9-9c38-4c38-a585-3c9a6e57ddec@158.160.255.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@51.250.69.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=nsWn6DyAmrEeBhKDGIVW6CeCrbOennyKdL0TiH0EaSE&sid=8c1f5e30&sni=any.yandex.ru#0716 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@84.201.168.36:443?type=ws&security=tls&encryption=none&sni=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&alpn=http/1.1#1537 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@158.160.74.36:443?type=ws&security=tls&encryption=none&fp=chrome&sni=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&alpn=http/1.1#2324 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://a0d57e76-b40b-4475-97e8-5f4fcfcd4e14@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2328
+vless://e831341a-b0c6-4a1c-8961-483c18e3daa9@158.160.160.33:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&sni=5post-gate.x5.ru#1105 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu
 vless://14a29335-247c-4d7f-9165-e40dde67f643@158.160.255.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | Selectel 1
 vless://a8deb095-6f60-4d95-ae06-44f4025e346f@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&spx=%2F#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC Selectel 26
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 27
@@ -11,9 +17,3 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:5
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 28
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 22
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 25
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 29
-vless://d737f30e-8537-4a03-b441-bde67a0c241b@217.16.31.159:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=4f61d0728e062b#🇷🇺 Russia | UFO Hosting 1
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC Selectel 15
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.125:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc&sni=cdnv-img.perekrestok.ru#🇷🇺 Russia | VK 112
-vless://a8deb095-6f60-4d95-ae06-44f4025e346f@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 19
-vless://a8deb095-6f60-4d95-ae06-44f4025e346f@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 6
