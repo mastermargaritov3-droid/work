@@ -2,18 +2,18 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
-vless://83e04592-f8b9-44b4-a35e-660a5c7d0176@158.160.233.46:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2324
-vless://a8deb095-6f60-4d95-ae06-44f4025e346f@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2323
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2322
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://554a813d-5ec3-4cad-8880-7a10af8adf54@81.200.149.180:8443?encryption=none&fp=chrome&pbk=CK9FUoPvZS0AyXyu1sOK_gHUdQUQl9TeFM6IFzpTFV0&security=reality&sid=1d9dc56f0b4fbb28&sni=max.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5B%2ACIDR%5D
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.139:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2321
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 22
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 28
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 27
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?type=ws&security=none&encryption=none#🇷🇺 Russia | JSC Selectel 33
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?type=ws&security=none&encryption=none#🇷🇺 Russia | JSC Selectel 21
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 26
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 23
-vless://554a813d-5ec3-4cad-8880-7a10af8adf54@81.200.149.180:8443?encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=CK9FUoPvZS0AyXyu1sOK_gHUdQUQl9TeFM6IFzpTFV0&sid=1d9dc56f0b4fbb28&spx=%2F#🇷🇺 Russia | JSC "TIMEWEB" 5
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?type=ws&security=none&encryption=none#🇷🇺 Russia | JSC Selectel 29
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 19
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 26
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 22
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 16
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 17
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 21
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 4
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 20
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 15
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 28
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 14
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?type=ws&security=none&encryption=none#🇷🇺 Russia | JSC Selectel 23
+vless://2fdd6b51-4fe2-4e2f-803a-3eb284bf038e@72.56.249.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&sni=www.google.com#🇷🇺 Russia | JSC "TIMEWEB" 34
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
