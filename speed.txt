@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2313
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2318
+vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2310
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?type=ws&security=none&encryption=none#🇷🇺 Russia | JSC Selectel 29
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 19
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 26
@@ -14,6 +17,3 @@ vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.151:58169?encryption=non
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 15
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none#🇷🇺 Russia | JSC Selectel 28
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 14
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?type=ws&security=none&encryption=none#🇷🇺 Russia | JSC Selectel 23
-vless://2fdd6b51-4fe2-4e2f-803a-3eb284bf038e@72.56.249.114:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9mJq2cP3srX_6K1YfMDp1yndvo5CtgL6TEVQ8tm4fVc&sni=www.google.com#🇷🇺 Russia | JSC "TIMEWEB" 34
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
