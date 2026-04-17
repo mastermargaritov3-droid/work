@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://a8deb095-6f60-4d95-ae06-44f4025e346f@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd%20t.me%2Frjsxrd
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 39
 vless://e0bf82db-50e1-4017-b15e-6402420226af@as.pink-world.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oerohHz9wAhDt-0XkxCr_3khOYJxMJSJVt4sW8AP6VA&sid=942d92bfeb27e278&sni=as.pink-world.ru#🇷🇺 Russia | Vpsville 1
 vless://7a8f51a9-9c38-4c38-a585-3c9a6e57ddec@158.160.255.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
@@ -16,4 +17,3 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:5
 vless://e831341a-b0c6-4a1c-8961-483c18e3daa9@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 30
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 18
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 24
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 28
