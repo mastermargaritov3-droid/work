@@ -2,6 +2,13 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://4d916a33-fae7-4679-8a4d-275e6e6f1a0c@130.49.218.40:2040?type=tcp&security=reality&fp=random&pbk=876iaRQ94D6lvXlpe5Oq8U0_jKuTUYQ8LgvG0yzTD0E&sid=301015aea582ff70&sni=maps.yandex.ru&path=&host=maps.yandex.ru#0932 | 🇷🇺 Russia | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%5BBL%5D
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20St%20Petersburg%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@95.163.208.136:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=91e2a4c7&sni=i.oneme.ru#1777 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@84.201.168.36:443?type=ws&security=tls&encryption=none&fp=chrome&sni=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&alpn=http/1.1#0711 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://e74c2be257e5446aa3b5f0619613f599@51.250.16.143:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=in3ZHiBaTun092XhEcoi_BrcKykk0maJxqAh1F37DV0&sid=aabbccdd&sni=browser.yandex.com#0826 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
+vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@158.160.28.195:8447?type=ws&security=tls&encryption=none&fp=chrome&sni=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&alpn=http/1.1#1693 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@37.9.13.185:58169?encryption=none&type=ws&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2316
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.86:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 16
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F&host=2.utube.mambo-jambo.ru#🇷🇺 Russia | JSC Selectel 5
@@ -10,10 +17,3 @@ vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=non
 vless://83e04592-f8b9-44b4-a35e-660a5c7d0176@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | Oyster Telecom 5
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.237.204:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lRk6p0r1iRelehqPuqRNLgODQeUQvtOxufdPuorG5ng&sid=40c9697ef67a03fb&sni=yandex.ru#🇷🇺 Russia | JSC "TIMEWEB" 30
 vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?encryption=none&type=ws&security=none&path=%2F#🇷🇺 Russia | JSC Selectel 12
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@193.39.168.152:58169?type=ws&security=none&encryption=none#🇷🇺 Russia | JSC Selectel 7
-vless://f8dd6b28-669b-466e-bd94-18dbeef84530@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 30
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC Selectel 42
-vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@95.163.211.119:443?type=tcp&security=reality&sni=cdnv-img.perekrestok.ru&fp=chrome&flow=xtls-rprx-vision&pbk=MNbAG72pXVO11PRzMRw7puKjDnmkig2mvEmdjow53Wc#🇷🇺 Russia | VK 13
-vless://a0d57e76-b40b-4475-97e8-5f4fcfcd4e14@158.160.160.33:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 59
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 41
-vless://c911018e-3cb0-485f-88d8-d72e2d90506a@2.utube.mambo-jambo.ru:58169?type=ws&security=none&host=2.utube.mambo-jambo.ru&path=%2F#🇷🇺 Russia | JSC Selectel 36
