@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 39
+vless://e0bf82db-50e1-4017-b15e-6402420226af@as.pink-world.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oerohHz9wAhDt-0XkxCr_3khOYJxMJSJVt4sW8AP6VA&sid=942d92bfeb27e278&sni=as.pink-world.ru#🇷🇺 Russia | Vpsville 1
 vless://7a8f51a9-9c38-4c38-a585-3c9a6e57ddec@158.160.255.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://19ef3d02-1c55-4fec-9794-6def8cbac396@51.250.69.30:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=nsWn6DyAmrEeBhKDGIVW6CeCrbOennyKdL0TiH0EaSE&sid=8c1f5e30&sni=any.yandex.ru#0716 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@84.201.168.36:443?type=ws&security=tls&encryption=none&sni=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&alpn=http/1.1#1537 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
@@ -15,5 +17,3 @@ vless://e831341a-b0c6-4a1c-8961-483c18e3daa9@158.160.160.33:443?flow=xtls-rprx-v
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 18
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 24
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 28
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 22
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-2.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 25
