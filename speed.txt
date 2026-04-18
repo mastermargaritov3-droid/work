@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC Selectel 23
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC Selectel 19
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 13
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 12
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 15
@@ -15,5 +17,3 @@ vless://30a3d65b-2963-48ef-ac5c-9f354fadc85c@212.233.121.168:5443?type=tcp&secur
 vless://b5dea461-87c0-41ec-9d66-173427932166@158.160.240.76:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&sni=5post-gate.x5.ru#0661 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | 🏳️ SNI-X5 | VLESS | TG: @YoutubeUnBlockRu%20t.me%2Frjsxrd
 vless://58b4e540-02ec-44d6-b6bc-bb238581d1fd@172.64.149.54:80?encryption=none&host=cdnhtzner.yas-baaq.ir&path=/index.html&security=none&type=ws#Шкатулка запретов — 🇺🇸US%20t.me%2Frjsxrd
 vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=elenaaaaaaaaaa.cloudns.pro.&path=/ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY&security=none&type=ws#Шкатулка запретов — 🇷🇺RU%20t.me%2Frjsxrd
-vless://3e58821e-4e75-49a9-bc2e-527be1c76deb@51.250.24.171:4443?encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=AZDTIuFYkuSXYWnHFLxFpzWM5wenXFv3zSJ3183DCjQ&sid=bc0f9a1781b7ba&spx=%2F#[308ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
-vless://30a3d65b-2963-48ef-ac5c-9f354fadc85c@212.233.121.168:5443?encryption=none&fp=chrome&pbk=nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0&security=reality&sid=e0d4ee&sni=ads.x5.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20TG%3A%20%40HardVpn_robot%20t.me%2Frjsxrd
