@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://82ae5746-137c-4e94-9338-07b63087699a@72.56.4.95:4462?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 26
 vless://82ae5746-137c-4e94-9338-07b63087699a@85.239.43.197:4510?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#[395ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://82ae5746-137c-4e94-9338-07b63087699a@72.56.1.7:4516?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#[404ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
@@ -16,4 +17,3 @@ vless://82ae5746-137c-4e94-9338-07b63087699a@147.45.146.124:4447?security=realit
 vless://82ae5746-137c-4e94-9338-07b63087699a@85.239.43.197:4510?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#[411ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://82ae5746-137c-4e94-9338-07b63087699a@72.56.239.143:4493?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇷🇺 Россия | Black List | Fast | EaveVPN | #0134%20t.me%2Frjsxrd
 vless://82ae5746-137c-4e94-9338-07b63087699a@85.239.43.197:4510?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 35
-vless://82ae5746-137c-4e94-9338-07b63087699a@72.56.233.213:4461?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 22
