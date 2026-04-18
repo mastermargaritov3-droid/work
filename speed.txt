@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://8e86097f-bcfd-4b3e-89f6-e2ea2518575b@1bd610f7-a98fqm.95.v-tun.com:7443?type=tcp&security=reality&encryption=none&sni=yandex.ru&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20yandex.ru
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@95.163.208.136:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=91e2a4c7&sni=i.oneme.ru#3023 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://30a3d65b-2963-48ef-ac5c-9f354fadc85c@212.233.121.168:5443?type=tcp&security=reality&encryption=none&fp=qq&pbk=nxnDt_F4R6QK9mKQ7dUpvCcJPtwYNPdlNWWjeiDyYj0&sid=e0d4ee&sni=ads.x5.ru&spx=/#0003 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@37.139.35.100:8443?type=xhttp&security=tls&fp=&sni=nederx.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=nederx.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&mode=auto&extra={#3516 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 40
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC Selectel 39
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 45
@@ -13,7 +17,3 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:5
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 10
 vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&security=reality&encryption=none&fp=edge&pbk=REbCbLiQwWzmUHZgBc-oCO0CMtwgvWURtWkFjNfcQkk&sid=4149657667076e2b&sni=icloud.com&serviceName=api#🇷🇺 Russia | N-Sat 5
 vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&security=reality&encryption=none&sni=icloud.com&fp=edge&pbk=REbCbLiQwWzmUHZgBc-oCO0CMtwgvWURtWkFjNfcQkk&sid=4149657667076e2b&serviceName=api&packet_mode=gun#🇨🇦 Канада | Black List | Fast | EaveVPN | #🇷🇺 Russia | N-Sat 7
-vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&security=reality&encryption=none&sni=icloud.com&fp=edge&pbk=REbCbLiQwWzmUHZgBc-oCO0CMtwgvWURtWkFjNfcQkk&sid=4149657667076e2b&serviceName=api&packet_mode=gun#🇷🇺 Russia | N-Sat 4
-vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&security=reality&encryption=none&fp=edge&pbk=REbCbLiQwWzmUHZgBc-oCO0CMtwgvWURtWkFjNfcQkk&sid=4149657667076e2b&sni=icloud.com&serviceName=api#🇷🇺 Russia | N-Sat 8
-vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&security=reality&encryption=none&fp=edge&pbk=REbCbLiQwWzmUHZgBc-oCO0CMtwgvWURtWkFjNfcQkk&sid=4149657667076e2b&sni=icloud.com&serviceName=api#🇷🇺 Russia | N-Sat 3
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@95.163.208.136:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=-nZqMxt7meVxfnQeK46MAYh5scb0M6La82axD8KHJXk&sid=91e2a4c7&sni=i.oneme.ru#2962 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
