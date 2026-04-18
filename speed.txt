@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@158.160.28.195:443?type=ws&security=tls&encryption=none&fp=chrome&sni=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=neder.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&alpn=http/1.1#1317 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://985bc398-5de3-426f-9b13-0596f759adc3@185.39.206.182:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru1.cvs-a.com&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#🇷🇺 Russia | JSC "TIMEWEB" 6
 vless://90c9c25c-df6c-4438-83d3-ef97166a9184@72.56.237.204:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lRk6p0r1iRelehqPuqRNLgODQeUQvtOxufdPuorG5ng&sid=40c9697ef67a03fb&sni=yandex.ru#🇷🇺 Russia | JSC "TIMEWEB" 3
 vless://333e48bd-bbe9-4f9d-bac4-fde418d9e0f1@95.163.209.47:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=HFlu11M_xqBayi6pD2ZyC30VobHLofr4JpndMGC6OjI&sid=0d3c8408d1c8fecb#🇷🇺 Russia | VK 2
@@ -16,4 +17,3 @@ vless://88dd9ab6-160f-4748-b931-8b2d8943a24e@158.160.205.146:443?flow=xtls-rprx-
 vless://d3f088a5-58d6-4dc6-adab-54d74e339c62@193.233.251.103:869?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=lggRqXlpIE3Pirqc1G_CZUn3oITFtmzvYNvGsEdEcDA&sid=999999&sni=eh.vk.com&spx=/#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 13
 vless://defcff2a-fcdf-41c2-aeb6-4f6d874c2d98@158.160.205.146:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 4
-vless://ce6f3864-fbf9-43f0-9ed5-c0dbaffef5c3@158.160.205.146:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 5
