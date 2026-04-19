@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://4e4f5607-087f-4ff6-907c-6b466530b455@109.205.58.79:54986?type=tcp&security=reality&encryption=none&fp=firefox&pbk=r5MXUjZdwVFbi1XWgElNHWbAn5SA_XRyoENzVTDxa2U&sid=cccbaf57&sni=www.vk.com#3106 | 🇷🇺 Russia | 🏳️ SNI-VK | VLESS | TG: @YoutubeUnBlockRu
+vless://dec329eb-c019-4a69-afc5-f2c9932127af@87.252.237.250:443?type=tcp&security=reality&encryption=none&fp=random&pbk=wI61klWlPCO6fBvUtiouNDOoimqL9OUKOBNNkj-SQx0&sid=45&sni=www.google.com#0111 | 🇧🇾 Belarus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://dec329eb-c019-4a69-afc5-f2c9932127af@87.252.237.250:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=wI61klWlPCO6fBvUtiouNDOoimqL9OUKOBNNkj-SQx0&sid=45&sni=www.google.com#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%2C%20Minsk%20%7C%20%5BBL%5D
 vless://9bc43d33-6d90-420d-869a-6d4f69b28c4c@85.239.59.34:4518?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 8
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&source_name=etoneya_1&provider_id=etoneya_1#🇷🇺 Russia | JSC Selectel 52
 vless://9bc43d33-6d90-420d-869a-6d4f69b28c4c@147.45.99.236:4342?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 16
@@ -14,6 +17,3 @@ vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&s
 vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&security=reality&encryption=none&fp=edge&pbk=REbCbLiQwWzmUHZgBc-oCO0CMtwgvWURtWkFjNfcQkk&sid=4149657667076e2b&sni=icloud.com&mode=gun&serviceName=api&authority=#🇷🇺 Russia | N-Sat 1
 vless://75807638-6f19-07d0-ae08-38492ee85c88@tegr.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия | Black List | Fast | EaveVPN | #0087%20t.me%2Frjsxrd
 vless://9bc43d33-6d90-420d-869a-6d4f69b28c4c@89.169.1.246:4383?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#4051 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.241.216.148:47030?security=reality&sni=api-maps.yandex.ru&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Россия | White List | Fast | EaveVPN | #0008%20t.me%2Frjsxrd
-vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 58
-vless://75807638-6f19-07d0-ae08-38492ee85c88@tegr.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия | Black List | Fast | EaveVPN | #🇷🇺 Russia | JSC "TIMEWEB" 52
