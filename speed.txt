@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://df70456b-f6fa-4798-86c6-1a008fbfa45c@51.250.78.186:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=Ew5a5rNW0ZLY9s4xnI3iZHbNLw2I21bp_kwa5poLcDU&sid=b2a6e3d42f05c3d1&spx=%2F#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20YA
+vless://b686bf2d-ed3d-4fb4-9ffc-a69ad347c952@84.201.148.27:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
+vless://395d2379-4675-46d4-b58d-477538d5fecc@217.168.247.124:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ru.vpnforppl.top&pbk=V79PDGag0UzOlSyK7Pa2t7YJeSRJhCN78P9vewwlznU&sid=a897aa6a992b7acc#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 vless://8e86097f-bcfd-4b3e-89f6-e2ea2518575b@1bd610f7-a98fqm.95.v-tun.com:7443?type=tcp&security=reality&encryption=none&sni=yandex.ru&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&flow=xtls-rprx-vision#🇷🇺 Russia | Hosting technology LTD 2
 vless://8e86097f-bcfd-4b3e-89f6-e2ea2518575b@1bd610f7-a98fqm.95.v-tun.com:7443?type=tcp&security=reality&encryption=none&sni=yandex.ru&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&flow=xtls-rprx-vision#🇷🇺 Russia | Hosting technology LTD 7
 vless://8e86097f-bcfd-4b3e-89f6-e2ea2518575b@a1v0f7e-42zfe4.95.velvetvpn.xyz:40443?type=tcp&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=qq&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&flow=xtls-rprx-vision#🇷🇺 Russia | Hosting technology LTD 6
@@ -14,6 +17,3 @@ vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:5
 vless://75807638-6f19-07d0-ae08-38492ee85c88@tegr.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Россия | White List | Fast | EaveVPN | #🇷🇺 Russia | JSC "TIMEWEB" 17
 vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#🇷🇺 Russia | JSC Selectel 49
 vless://c5992ba6-8ecb-4a2f-b95f-548bf2793949@158.160.132.244:443?type=ws&security=tls&encryption=none&fp=chrome&sni=ger.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&host=ger.chsvjaa9ha7gag7aa9jwh7wb7ww.ru&alpn=http/1.1#3143 | 🇷🇺 Russia | 🏳️ CIDR-Yandex | VLESS | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?type=tcp&security=tls&fp=chrome&flow=xtls-rprx-vision#🇷🇺 Russia | JSC Selectel 48
-vless://dec329eb-c019-4a69-afc5-f2c9932127af@87.252.237.250:443?type=tcp&security=reality&encryption=none&fp=random&pbk=wI61klWlPCO6fBvUtiouNDOoimqL9OUKOBNNkj-SQx0&sid=45&sni=www.google.com#0240 | 🇧🇾 Belarus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://75807638-6f19-07d0-ae08-38492ee85c88@cluster-russia-1.firstvideocdn.ru:52006?flow=xtls-rprx-vision&fp=chrome&security=tls&type=tcp#🇷🇺 Russia | JSC Selectel 47
