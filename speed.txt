@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://dd027bae-0a88-4be6-8e89-129757e803b4@84.201.147.14:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2332
+vless://dd027bae-0a88-4be6-8e89-129757e803b4@84.201.147.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2336
 vless://86641a17-2ebd-4368-b43b-834e66e42d24@158.160.138.43:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2333
 vless://86641a17-2ebd-4368-b43b-834e66e42d24@84.201.147.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2338
 vless://86641a17-2ebd-4368-b43b-834e66e42d24@158.160.255.74:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2342
@@ -15,5 +17,3 @@ vless://9a642a58-a9be-4e87-98c8-a5f3725221e0@89.208.199.168:443?type=grpc&securi
 vless://9a642a58-a9be-4e87-98c8-a5f3725221e0@89.208.199.168:443?type=grpc&security=reality&sni=ads.x5.ru&pbk=-0kUsIqg_ZC9pvlZg8O7Spf6h40aeknptHSsx4jZEg4&fp=chrome&sid=00#🇷🇺 Russia | VK 4
 vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#[652ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
 vless://75807638-6f19-2710-ae08-38492ee85c88@cluster-de-2.firstvideocdn.ru:52006?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome#[514ms Россия RU 🇷🇺 @vlesstrojan]%20t.me%2Frjsxrd
-vless://9a642a58-a9be-4e87-98c8-a5f3725221e0@89.208.199.168:443?type=grpc&security=reality&sni=ads.x5.ru&pbk=-0kUsIqg_ZC9pvlZg8O7Spf6h40aeknptHSsx4jZEg4&fp=chrome&sid=00#🇷🇺 Russia | VK 2
-vless://cb1691ad-49cc-46a9-b734-91c109200c32@151.247.197.77:47030?security=reality&sni=api-maps.yandex.ru&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇷🇺 Россия | White List | Fast | EaveVPN | #0002%20t.me%2Frjsxrd
