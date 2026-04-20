@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #announce: 🇷🇺 Быстрые сервера. Youtube, Instagram, Telegram
 ##################################################
+vless://ba6d8711-7335-4552-b7b1-7b9e586b0211@84.201.147.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2335
+vless://ba6d8711-7335-4552-b7b1-7b9e586b0211@158.160.241.159:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2333
 vless://ae9196bf-c49b-40f7-87f3-f3370b4e886e@85.239.59.34:4518?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 110
 vless://9e6daeb0-c235-4442-88e7-b3a29e23f9b1@158.160.241.159:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
 vless://9e6daeb0-c235-4442-88e7-b3a29e23f9b1@158.160.229.171:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20YA
@@ -15,5 +17,3 @@ vless://fb99f4f0-181d-4117-be22-df9856fbbc06@45.93.201.160:4384?type=tcp&securit
 vless://ae9196bf-c49b-40f7-87f3-f3370b4e886e@5.42.123.98:4461?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=files.moscownews24.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇷🇺 Russia | JSC "TIMEWEB" 139
 vless://ae9196bf-c49b-40f7-87f3-f3370b4e886e@92.246.76.10:4446?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 216
 vless://ba6d8711-7335-4552-b7b1-7b9e586b0211@158.160.229.171:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#%F0%9F%87%B7%F0%9F%87%BA%20Selectel%20%E2%80%94%20%2339
-vless://fb99f4f0-181d-4117-be22-df9856fbbc06@45.93.201.160:4384?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇷🇺 Russia | JSC "TIMEWEB" 283
-vless://9e6daeb0-c235-4442-88e7-b3a29e23f9b1@158.160.229.171:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=id.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#🇷🇺 Russia | JSC Selectel 24
